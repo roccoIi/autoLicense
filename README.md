@@ -8,6 +8,9 @@
 ### 프로젝트 기간
 Jul 2022 ~ Aug 2022 
 
+### 개발 인원
+1명
+
 ### 사용
 - Language : Python
 - Library : 
